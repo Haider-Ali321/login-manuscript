@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-image: linear-gradient(to right,#59599f,#2196f3, #287cbf);
+}
+li a:hover{
+    color: aqua;
+
+
+}
+.container-fluid{
+    height: 650px;
+    background-color: hsl(0, 0%, 81%);
+
+}
+form input{
+    border-radius: 50px;
+    outline: none;
+}
+.heading h3{
+    border-bottom: 2px solid black;
+    width: 30%;
+}
+.inner-form span{
+    font-size: small;
+    text-decoration: underline;
+    padding: 2px;
+
+}
+.inner{
+    height: 550px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.btn{
+    font-size: medium;
+}
+.bx{
+    position: absolute;
+    font-size: 30px;
+}
+
